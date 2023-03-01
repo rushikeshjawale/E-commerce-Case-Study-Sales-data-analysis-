@@ -66,3 +66,60 @@ Overall, the objective of an e-commerce case study is to provide readers with a 
 ## Question and Solutions of Analysis:
 
 ### Q1) What is the best month for sale ?
+![1_Best_month_for_sale](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/1_Best_month_for_sale.jpeg)
+
+#### Conclusion:
+As you can see the best month to sale product are October and December.
+From this conclusion you can say that on 12th Month that is in December company has made maximum sales.
+
+### Q2) Which city has maximum order ?
+![2_city_has_max_order](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/2_city_has_max_order.jpeg)
+
+#### Conclusion:
+As you can see the maximum order on this E-commerce website is from 'San Francisco'
+
+### Q3) At what time sales of product purchase is maximum ?
+![3_Time_product_purchaseMax](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/3_Time_product_purchaseMax.jpeg)
+
+#### Conclusion:
+As you can see the graph says that the maximum order is in the between 12pm and 7pm
+so one can advertise the order in such interval
+
+### Q4) What Product sold the most and why ?
+![4_most_sold_product](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/4_most_sold_product.jpeg)
+
+
+![4_most_sold_product](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/4.correlation_maxsold_product.jpeg)
+#### Conclusion:
+From first graph you can conclude that 'AAA Batteries' have the least mean price so this can be the reason that this product has the 
+highest sell.
+
+From the Second graph you get the reason because you can see the top selling product has a correlation with the price of the product so it means the cheaper the product the higher the quantity order. vise versa
+
+### Q5) What Products are most often sold together ?
+![5_Product_mostoften_soldTogether](https://github.com/rushikeshjawale/E-commerce-Case-Study-Sales-data-analysis-/blob/main/images/5_Product_mostoften_soldTogether.jpeg)
+
+#### Conclusion:
+As you can see here maximum area is covered by 'Google Phone','USB-C Charging Cable' and 'iPhone','Lightning Charging Cable'.
+Which means these Products are more often sold together.
+
+## Software used in this project:
+
+In case of local machine We are going to use the following softwares in this project :
+
+Programming Language : [Python](https://www.python.org/)
+
+IDE : [Jupyter Notebook](https://jupyter.org/)
+
+Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), [Numpy](https://numpy.org/), [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/)
+
+### The Data Sets:
+Download dataset zip file and extract it into your system to use
+[E-commerce Case Study(Sales data analysis)](https://drive.google.com/drive/folders/1JIx6qSJxWLMJatxgoOcw2V417ga1Lwl2)
+
+# Author
+
+- [@Rishikesh Jawale](https://github.com/rushikeshjawale?tab=repositories)
+
+# 🔗 Connect with me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-jawale-433551252/)
